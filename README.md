@@ -17,7 +17,7 @@ I recently completed my Post Graduate Diploma in **Big Data Analysis** from the 
 
 ## 📚 Projects
 
-- [Cat vs Dog Image Classification](Link to Project 1) - It is an entry-level image classification project that makes use of Convolutional Neural Networks (CNN).
+- [Cat vs Dog Image Classification](https://github.com/vsn99/catvsdog) - It is an entry-level image classification project that makes use of Convolutional Neural Networks (CNN).
 - [BloomBot](https://github.com/vsn99/Project) - It is my Post Graduate Diploma Project which makes use of ResNet50 Architecture to classify 5 classes of flowers.
 
 ## 📫 Let's Connect
